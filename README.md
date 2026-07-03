@@ -144,14 +144,4 @@ The fine-tuned YOLOv11s model on VisDrone dataset achieves:
 
 This project uses VisDrone dataset under their terms. Check the dataset licensing agreement.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## Contact
-
-For questions or support, please open an issue on the GitHub repository.
-
----
-
 **Built with YOLOv11 by Ultralytics**
