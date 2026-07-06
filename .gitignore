@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+Notebooks/.ipynb_checkpoints/
+
+# Model and training outputs
+models/
+results/
+Notebooks/models/
+*.pt
+*.pth
+*.onnx
+*.weights
+*.log
+
+# Dataset files
+Visdrone/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
